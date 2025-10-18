@@ -1,4 +1,4 @@
-FROM snailyp/gemini-balance:latest
+FROM ghcr.io/snailyp/gemini-balance:latest
 
 EXPOSE 8000
 
